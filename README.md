@@ -20,7 +20,8 @@ Merupakan metode bandwidth management termudah yang ada di Mikrotik. Menu dan ko
 
 5. lalu kita juga bisa mengunakan interface dan nantinya rule akan mentargetkan interface tersebut, misalnya saat laptop terkoneksi ke ether2 atau switch agar terhubung ke banyak perangkat maka limitasi berlaku secara total.
 
-![](ue4.PNG)
+![m](ue4.PNG) 
+
 
 6. Kita juga bisa melimit beberapa IP Address tanpa mengunakan subnet dengan mengunakan arah panah bawah V pada parameter Target.
 
